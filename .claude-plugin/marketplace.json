@@ -1,0 +1,19 @@
+{
+  "name": "mattzimak-cert",
+  "description": "Matt Zimak's study plugin for the Claude Certified Architect exams.",
+  "owner": {
+    "name": "Matt Zimak",
+    "url": "https://mattzimak.com"
+  },
+  "plugins": [
+    {
+      "name": "cert-coach",
+      "source": "./",
+      "description": "Registration checklist, reading habits, original practice drills and a plain-language tutor for the Claude Certified Architect exams. Run /cert-coach:foundations to start.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Matt Zimak"
+      }
+    }
+  ]
+}
