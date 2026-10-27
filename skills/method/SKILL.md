@@ -9,7 +9,7 @@ allowed-tools: Bash(${CLAUDE_PLUGIN_ROOT}/scripts/ref.sh *)
 
 Arguments: `$ARGUMENTS` (default: `all`)
 
-This is the method Matt Zimak used to go from 667 to 851 on the Foundations exam as a non-developer. His first attempt failed on reading, not on knowledge: two options often look almost the same and differ by one technical detail. Teach it in plain words. If the user asks for one part, give only that part.
+This is the method Matt Zimak used to go from 667 to 851 on the Foundations exam as a non-developer. Matt's first attempt failed on reading, not on knowledge: two options often look almost the same and differ by one technical detail. Teach it in plain words. If the user asks for one part, give only that part.
 
 Ground conventions in the official exam guide (the link is in `/cert-coach:foundations`). Where the guide and today's docs differ, teach the guide's version, using the table below.
 

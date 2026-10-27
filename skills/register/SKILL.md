@@ -22,7 +22,7 @@ Turn the facts below into a checklist for this user, with real dates where you c
 **Who can sit it**
 - Registration needs a **partner email**: an address on a recognised domain of a company in the Claude Partner Network. Personal Gmail or Outlook addresses are refused; the Partner Academy says "You aren't signed in with a partner company employee email".
 - If your employer is a partner but the domain is not recognised, email partner-support@anthropic.com. Linking a domain takes **7 to 10 days**, so ask early.
-- No partner employer: Matt Zimak's guide describes the route he used (partners section): https://agentmatik.ai/guides/how-i-passed-the-claude-certified-architect-exam-as-a-non-developer
+- No partner employer: Matt Zimak's guide describes the partner route Matt used (partners section): https://agentmatik.ai/guides/how-i-passed-the-claude-certified-architect-exam-as-a-non-developer
 - You must be **18 or older**; age is checked against your ID at check-in.
 
 **Where to start**
