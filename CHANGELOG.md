@@ -7,6 +7,11 @@ All notable changes to this plugin. Format: [Keep a Changelog](https://keepachan
 ### Planned
 - Professional (CCAR-P) blueprint index and tuned drills, built from the exam guide Anthropic publishes on 17 November 2026 for exams from 7 December 2026.
 
+## [0.1.1] - 2026-11-03
+
+### Changed
+- README and plugin description: the personal story is the final mark only (851); the first-attempt story is out. No change to the skills.
+
 ## [0.1.0] - 2026-10-27
 
 ### Added

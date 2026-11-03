@@ -44,7 +44,7 @@ Then give a plan in this shape. Adjust the days; keep the order.
 
 For a **retake**: the result Anthropic sends shows percent correct by domain. Ask the user for those percentages (only the numbers, for their own plan), start with the lowest domain, and drill it with `/cert-coach:drill weak`. Remind them of the waiting period in `/cert-coach:register`.
 
-Honest sizing, from Matt's experience: two days of the wrong material was not enough for a non-developer; a focused week is comfortable for a first attempt.
+Honest sizing, from Matt's experience: a focused week is comfortable. Matt passed after about two and a half days of study, which is tight for a non-developer.
 
 ## Step 3 - hand off
 

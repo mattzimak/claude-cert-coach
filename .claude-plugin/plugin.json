@@ -1,8 +1,8 @@
 {
   "name": "cert-coach",
   "displayName": "Cert Coach",
-  "version": "0.1.0",
-  "description": "Prepare for Anthropic's Claude Certified Architect exams with the method that took a non-developer from 667 to 851: registration checklist, question-reading habits, drills of freshly generated original questions, and a plain-language tutor anchored to the official exam guide. Foundations now; Professional after the new guide is published on 17 November 2026.",
+  "version": "0.1.1",
+  "description": "Prepare for Anthropic's Claude Certified Architect exams with the method a non-developer used to score 851: registration checklist, question-reading habits, drills of freshly generated original questions, and a plain-language tutor anchored to the official exam guide. Foundations now; Professional after the new guide is published on 17 November 2026.",
   "author": {
     "name": "Matt Zimak",
     "url": "https://mattzimak.com"

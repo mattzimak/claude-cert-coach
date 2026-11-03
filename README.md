@@ -1,13 +1,13 @@
 # Cert Coach
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Plugin 0.1.0](https://img.shields.io/badge/plugin-0.1.0-black) ![Foundations ready](https://img.shields.io/badge/Foundations-ready-2ea043) ![Professional after 17 Nov 2026](https://img.shields.io/badge/Professional-after%2017%20Nov%202026-lightgrey)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Plugin 0.1.0](https://img.shields.io/badge/plugin-0.1.1-black) ![Foundations ready](https://img.shields.io/badge/Foundations-ready-2ea043) ![Professional after 17 Nov 2026](https://img.shields.io/badge/Professional-after%2017%20Nov%202026-lightgrey)
 
-A Claude Code plugin for preparing for Anthropic's **Claude Certified Architect** exams. It packages the method I used to pass Foundations as a non-developer: 667 the first time, 851 the second.
+A Claude Code plugin for preparing for Anthropic's **Claude Certified Architect** exams. It packages the method I used to pass Foundations as a non-developer, with a score of 851.
 
 It does four things:
 
 - walks you through registration, with your own deadlines worked out,
-- teaches how to read a scenario question, which is where my first attempt failed,
+- teaches the seven habits I use to read a scenario question,
 - drills you with fresh practice questions it writes for you from the public exam guide, and saves every miss as a one-line rule,
 - explains any concept or miss in plain words, anchored to the official guide.
 
